@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Natinux.TextStatistics</id>
+    <version>1.0.2</version>
+    <authors>Natinux</authors>
+    <owners>Natinux</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Generate information about text including syllable counts and Flesch-Kincaid, Gunning-Fog, Coleman-Liau, SMOG and Automated Readability scores. A .NET port of TextStatistics.php forked and published here</description>
+    <releaseNotes>Added Calculate function and published to nuGet</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>text statistics</tags>
+  </metadata>
+</package>
